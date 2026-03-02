@@ -1,4 +1,10 @@
 ## Hi there 👋
+My name is Isaac, I'm coder at Riwi, I have basic knowledge in HTML and CSS. I like programming because I like everything that has to do with computers.
+My goal is to specialize in backend and mobile development.
+The programming languages that I want to learn: Javascript, Next.js, Python, IA.
+I like to play volleyball on weekends., 
+My inspiration is my brother, he has been programming for quite some time. 
+
 
 <!--
 **IsaacRG5/IsaacRG5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
