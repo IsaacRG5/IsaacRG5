@@ -7,10 +7,10 @@ My name is Isaac, and I am a developer in training at Riwi with a strong interes
 
 📚 Right now I am learning and exploring technologies such as:
 
-* JavaScript
-* Next.js
-* Python
-* Artificial Intelligence
+*IA 
+*LLMs 
+*DB 
+*Data Analytics
 
 🏐 Outside of programming, I enjoy playing volleyball on weekends.
 
