@@ -1,9 +1,30 @@
 ## Hi there 👋
-My name is Isaac, I'm coder at Riwi, I have basic knowledge in HTML and CSS. I like programming because I like everything that has to do with computers.
-My goal is to specialize in backend and mobile development.
-The programming languages that I want to learn: Javascript, Next.js, Python, IA.
-I like to play volleyball on weekends., 
-My inspiration is my brother, he has been programming for quite some time. 
+My name is Isaac, and I am a developer in training at Riwi with a strong interest in software development and technology.
+
+💻 I currently have basic knowledge of HTML, CSS, and Python, and I enjoy building projects that help me improve my programming skills.
+
+🚀 My goal is to specialize in backend and mobile development, creating useful and efficient applications.
+
+📚 Right now I am learning and exploring technologies such as:
+
+* JavaScript
+* Next.js
+* Python
+* Artificial Intelligence
+
+🏐 Outside of programming, I enjoy playing volleyball on weekends.
+
+💡 My inspiration to start programming is my brother, who has been in this field for a long time.
+
+
+ 🛠 Technologies I am learning
+
+HTML • CSS • Python • JavaScript • Next.js
+
+📈 Goal
+
+To keep learning software development, build real projects, and improve every day as a developer.
+
 
 
 <!--
