@@ -1,31 +1,34 @@
-## Hi there 👋
-My name is Isaac, and I am a developer in training at Riwi with a strong interest in software development and technology.
+## Hi, I'm Isaac David Ortiz Guzma
 
-💻 I currently have basic knowledge of HTML, CSS, and Python, and I enjoy building projects that help me improve my programming skills.
+Desarrollador de Software | Java & Spring Boot | Angular
 
-🚀 My goal is to specialize in backend and mobile development, creating useful and efficient applications.
+I'm a software developer passionate about technology and building software solutions. I enjoy developing applications, solving problems, and continuously improving my programming skills.
 
-📚 Right now I am learning and exploring technologies such as:
+My main goal is to become a Full-Stack Developer, specializing in backend development while strengthening my frontend skills to build scalable, efficient, and high-quality applications.
 
-*Python 
+##  Tech Stack
 
-*Go (Golang)
+Backend 
 
-*DB (Databases)
+JAVA, SPRING BOOT, JWT, HIBERNATE, SPRING SECURITY, SPRING DATA JPA. 
+
+Databases
+
+POSTGRESQL, DBEAVER.
+
+Frontend
+
+HTML, CSS, JAVASCRIPT, ANGULAR.
+
+Tools
+
+GIT, GITHUB, DOCKER MAVEN, INTELLIJ IDEA, VS CODE, POSTMAN. 
+
+##  About me 
+
+I am a software developer, with knowledge and hands-on experience in application development using technologies such as Java, Spring Boot, Angular, and PostgreSQL. I am currently strengthening my backend and frontend development skills by applying best practices in programming, software architecture, REST API integration, and database management in personal and academic projects.
 
 
-🏐 Outside of programming, I enjoy playing volleyball on weekends.
-
-💡 My inspiration to start programming is my brother, who has been in this field for a long time.
-
-
- 🛠 Technologies I am learning
-
-HTML • CSS • Python • JavaScript • Next.js
-
-📈 Goal
-
-To keep learning software development, build real projects, and improve every day as a developer.
 
 
 
@@ -37,7 +40,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with .
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
